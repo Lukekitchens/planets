@@ -1,2 +1,3 @@
 Mars is a red planet.
 There is no point in colonising it, as it is limited in resources need for human survival.
+Do you want to play?
